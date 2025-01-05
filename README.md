@@ -21,7 +21,8 @@ A hazard assessment tool for Near-Earth Objects, ensuring planetary safety. Deve
 [Notebook](https://github.com/ahsan-cell/Astro-Orbital-Insight-Tool/blob/master/project%20docs/complete%20notebook.pdf)
 
 ## UI
-![image](https://github.com/ahsan-cell/Astro-Orbital-Insight-Tool/assets/55620980/521e2861-5dd5-40b3-98e7-da5c3e9199ab)
+![image](https://github.com/user-attachments/assets/eb593bbc-c2c9-42cd-9d08-70cf6be19ba9)
+
 
 
 
